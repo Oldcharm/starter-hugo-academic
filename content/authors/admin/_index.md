@@ -1,39 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yichao Guan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: undergraduate in physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+- name: University of Illinois at Urbana-Champaign
+  url: https://illinois.edu/
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+- Biophysics
+- Ecology
+- Statistical Mechanics
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,26 +26,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:yichaog2@illinois.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/GuanYichao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  link: https://www.linkedin.com/in/yichao-g-60a965199/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +41,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a senior in physics at UIUC. I am graduating in the spring, and I will apply for Ph.D. this fall.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on theoretical biophysics and ecology. I am particularly interested in using simple models to explain quantitative laws found at the cellular level, such as cell size control and cell cycle-dependent transcription. I am also interested in modeling and analyzing complex ecology communities. My interests in ecology include life history strategies of microbiomes and phylogenetic biodiversity.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Currently, I am lucky to work in Ido Golding's Lab and James O'Dwyer's Lab at UIUC for my undergraduate research. Previously, I visited Peking University for several months. At PKU, I investigated the effect of single-cell variability in growth traits on population dynamics with Jie Lin.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yichao-CV-122021a.pdf" "newtab" >}}resumé{{< /staticref >}}.
