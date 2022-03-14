@@ -41,10 +41,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am a senior in physics at UIUC. I am graduating in the spring, and I will apply for Ph.D. this fall.
+Hi! I am a senior in physics at UIUC. I am graduating in the spring, and **I will apply for Ph.D. this fall.**
 
-My research focuses on theoretical biophysics and ecology. I am particularly interested in using simple models to explain quantitative laws found at the cellular level, such as cell size control and cell cycle-dependent transcription. I am also interested in modeling and analyzing complex ecology communities. My interests in ecology include life history strategies of microbiomes and phylogenetic biodiversity.
+My research focuses on theoretical biophysics and ecology. I am particularly interested in using simple models to explain quantitative laws found at the cellular level, such as cell size control and cell cycle-dependent transcription. I am also interested in modeling and analyzing complex ecology communities. My interests in ecology include phylogenetic biodiversity and life-history strategies of microbiomes.
 
-Currently, I am lucky to work in Ido Golding's Lab and James O'Dwyer's Lab at UIUC for my undergraduate research. Previously, I visited Peking University for several months. At PKU, I investigated the effect of single-cell variability in growth traits on population dynamics with Jie Lin.
+Currently, I work in [Ido Golding's Lab](https://bacteriophysics.web.illinois.edu/) and [James O'Dwyer's Lab](http://publish.illinois.edu/odwyerlab/) at UIUC for my undergraduate research. Previously, I visited Peking University. At PKU, I investigated the effect of single-cell variability in growth traits on population dynamics with [Jie Lin](http://cqb.pku.edu.cn/jlingroup/htmls/Members/Member_Linjie.html).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yichao-CV-122021a.pdf" "newtab" >}}resumé{{< /staticref >}}.
