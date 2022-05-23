@@ -47,4 +47,4 @@ My research focuses on theoretical biophysics and ecology. I am particularly int
 
 Currently, I work in [Ido Golding's Lab](https://bacteriophysics.web.illinois.edu/) and [James O'Dwyer's Lab](http://publish.illinois.edu/odwyerlab/) at UIUC for my undergraduate research. Previously, I visited Peking University. At PKU, I investigated the effect of single-cell variability in growth traits on population dynamics with [Jie Lin](http://cqb.pku.edu.cn/jlingroup/htmls/Members/Member_Linjie.html).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yichao-CV-122021a.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_052022.pdf" "newtab" >}}resumé{{< /staticref >}}.
