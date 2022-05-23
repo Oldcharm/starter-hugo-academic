@@ -41,7 +41,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I graduated from UIUC with a Bachelor of Science degree in physics in May 2022, and **I will apply for Ph.D. this fall.**
+Hi! I graduated from UIUC with a Bachelor of Science degree in physics in May 2022, and **I will apply for Ph.D. programs in biophysics this fall.**
 
 My research focuses on theoretical biophysics and ecology. I am particularly interested in using simple models to explain quantitative laws found at the cellular level, such as cell size control and cell cycle-dependent transcription. I am also interested in modeling and analyzing complex ecology communities. My interests in ecology include phylogenetic biodiversity and life-history strategies of microbiomes.
 
